@@ -4,7 +4,7 @@ This project demonstrates my ability to use asynchronous code, in this case to f
 
 ## To Run: 
 
-Download source files from repository to root folder, and then open [Index](https://github.com/joerobbins3/bus/blob/main/index.html) in browser. Map will render on screen with bus stop markers and bus location indicators. Bus Location indicators will update every 15 secons onload. 
+Download source files from repository to root folder, and then open [Index](https://github.com/joerobbins3/bus/blob/main/index.html) in browser. Map will render on screen with bus stop markers and bus location indicators. Bus Location indicators will update every 15 seconds onload. 
 
 ## Future Improvements: 
 
