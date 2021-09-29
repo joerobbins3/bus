@@ -8,7 +8,7 @@ Download source files from repository to root folder, and then open [Index](http
 
 ## Future Improvements: 
 
-I would love to implement of logging mechanism that tracks variance of historical route times, this would enable the user to see which buses, drivers and routes are typically the fastest, what may cause slowdowns, etc.
+I would love to implement a logging mechanism that tracks variance of historical route times, this would enable the user to see which buses, drivers and routes are typically the fastest, what may cause slowdowns, etc.
 
 ## License: 
 
